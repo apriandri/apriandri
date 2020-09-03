@@ -3,6 +3,10 @@
 [![Website](http://img.shields.io/website?label=APRIANDRI&style=for-the-badge&url=https://www.apriandri.tech)](https://www.apriandri.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/apriandri27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapriandri27&screen_name=apriandri27)
 
+
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/42FW4P9QyfqL7OhwiN7lNG)
 ---
 
  
@@ -14,8 +18,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Come On You Gunners
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/42FW4P9QyfqL7OhwiN7lNG)
 
 ### Connect with me:
 
