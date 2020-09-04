@@ -70,6 +70,8 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriandri&layout=compact)](https://github.com/apriandri/github-readme-stats)
+
 
   <img align="left" alt="apriandri's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=apriandri&show_icons=true&hide_border=true" />
 
