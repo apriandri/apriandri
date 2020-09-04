@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/apriandri27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcapriandri27&screen_name=apriandri27)
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/apriandri/)
-https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white (apriandri69@gmail.com)
+[![Paypal]https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](apriandri69@gmail.com)
 
 
 
