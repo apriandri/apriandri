@@ -64,6 +64,7 @@
   <img align="left" alt="apriandri's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=apriandri&show_icons=true&hide_border=true" />
 
 </details>
+[website]: https://www.apriandri.tech
 
 <!-- [website]: https://www.apriandri.tech
 [twitter]: https://twitter.com/apriandri27
