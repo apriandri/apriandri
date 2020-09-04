@@ -6,6 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/apriandri/)
 [![Paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](apriandri69@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apriandri)
+[![LinkedIn] https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white(https://www.artstation.com/artwork/QzOlad)
 
 
 
@@ -72,10 +73,10 @@
 
 </details>
 
-[website]: https://www.apriandri.tech
+<!-- [website]: https://www.apriandri.tech
 [twitter]: https://twitter.com/apriandri27
 [instagram]: https://instagram.com/apriandri
-[linkedin]: https://www.artstation.com/artwork/QzOlad
+[linkedin]: https://www.artstation.com/artwork/QzOlad -->
 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
