@@ -50,6 +50,10 @@
 - [UFO IN YOUR HOUSE](https://www.artstation.com/artwork/QzOlad)
 - [UFO V 2](https://www.artstation.com/artwork/A9VgZq) -->
 
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+</p>
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more web posts...](http://www.apriandri.tech/)
