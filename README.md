@@ -45,7 +45,7 @@
 
 ### 📕 Latest  Design & 3D POSTS
 [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/behance-3-logo.png" width="150" />](https://www.behance.net/apriandri)
-[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/892ea137693157.5748bd39ecef6.png" width="150" />](https://www.behance.net/apriandri)
+[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/892ea137693157.5748bd39ecef6.png" width="150" />](https://www.artstation.com/apriandri)
 
 <!-- BLOG-POST-LIST:START -->
 - [TESLA CYBER TRUCK](https://www.artstation.com/artwork/mDq381)
