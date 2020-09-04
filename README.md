@@ -51,7 +51,7 @@
 - [UFO V 2](https://www.artstation.com/artwork/A9VgZq) -->
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/apriandri"></a>
 </p>
 
 <!-- BLOG-POST-LIST:END -->
