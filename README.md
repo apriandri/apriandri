@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently working on IT & Design 👑
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Come On You Gunners⚽⚽
+- ⚡ Come On You Gunners⚽⚽⚽
 
 <br />
 
