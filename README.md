@@ -45,9 +45,10 @@
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/892ea137693157.5748bd39ecef6.png" width="150" />](https://www.artstation.com/apriandri)
 
 <!-- BLOG-POST-LIST:START -->
-- [TESLA CYBER TRUCK](https://www.artstation.com/artwork/mDq381)
+
+<!-- - [TESLA CYBER TRUCK](https://www.artstation.com/artwork/mDq381)
 - [UFO IN YOUR HOUSE](https://www.artstation.com/artwork/QzOlad)
-- [UFO V 2](https://www.artstation.com/artwork/A9VgZq)
+- [UFO V 2](https://www.artstation.com/artwork/A9VgZq) -->
 
 <!-- BLOG-POST-LIST:END -->
 
