@@ -50,9 +50,6 @@
 - [UFO IN YOUR HOUSE](https://www.artstation.com/artwork/QzOlad)
 - [UFO V 2](https://www.artstation.com/artwork/A9VgZq) -->
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/apriandri"></a>
-</p>
 
 <!-- BLOG-POST-LIST:END -->
 
