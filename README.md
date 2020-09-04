@@ -1,7 +1,8 @@
 ### Hi there, I'm [Apri Andri][website] 🦇🦇
 ## I'm From Computer Science Major. 👑
 
-## Learn some ReactJs, Vue, Ionic, ect. Have 4years Experience in programming & 3 Years in Graphic Design
+
+## 𝘓𝘦𝘢𝘳𝘯 𝘴𝘰𝘮𝘦 𝘙𝘦𝘢𝘤𝘵𝘑𝘴, 𝘝𝘶𝘦, 𝘐𝘰𝘯𝘪𝘤, 𝘦𝘤𝘵. 𝘏𝘢𝘷𝘦 4𝘺𝘦𝘢𝘳𝘴 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 & 3 𝘠𝘦𝘢𝘳𝘴 𝘪𝘯 𝘎𝘳𝘢𝘱𝘩𝘪𝘤 𝘋𝘦𝘴𝘪𝘨𝘯
 
 
 - 🌱 I’m currently working on IT & Design 👑
