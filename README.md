@@ -64,12 +64,12 @@
   <img align="left" alt="apriandri's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=apriandri&show_icons=true&hide_border=true" />
 
 </details>
-[website]: https://www.apriandri.tech
 
-<!-- [website]: https://www.apriandri.tech
+
+[website]: https://www.apriandri.tech
 [twitter]: https://twitter.com/apriandri27
 [instagram]: https://instagram.com/apriandri
-[linkedin]: https://www.artstation.com/artwork/QzOlad -->
+[linkedin]: https://www.artstation.com/artwork/QzOlad
 
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
