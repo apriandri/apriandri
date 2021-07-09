@@ -20,7 +20,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/42FW4P9QyfqL7OhwiN7lNG)
+[<img src="https://spotify-badge-python-flask.vercel.app/api/spotify-playing" alt="APRI ANDRI" width="350" />](https://open.spotify.com/playlist/42FW4P9QyfqL7OhwiN7lNG)
 ---
 
  
@@ -47,18 +47,6 @@
 [<img src="https://cdn.freebiesupply.com/logos/thumbs/2x/behance-3-logo.png" width="150" />](https://www.behance.net/apriandri)
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/892ea137693157.5748bd39ecef6.png" width="150" />](https://www.artstation.com/apriandri)
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [TESLA CYBER TRUCK](https://www.artstation.com/artwork/mDq381)
-- [UFO IN YOUR HOUSE](https://www.artstation.com/artwork/QzOlad)
-- [UFO V 2](https://www.artstation.com/artwork/A9VgZq) -->
-
-
-<!-- BLOG-POST-LIST:END -->
-
-<!--  [more web posts...](http://www.apriandri.tech/) -->
-
----
 
 
 <details>
