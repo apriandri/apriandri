@@ -2,7 +2,7 @@
 ## I'm From Computer Science Major. 👑
 
 
-## 𝘓𝘦𝘢𝘳𝘯 𝘴𝘰𝘮𝘦 𝘙𝘦𝘢𝘤𝘵𝘑𝘴, 𝘝𝘶𝘦, 𝘐𝘰𝘯𝘪𝘤, 𝘦𝘤𝘵. 𝘏𝘢𝘷𝘦 4𝘺𝘦𝘢𝘳𝘴 𝘌𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 & 3 𝘠𝘦𝘢𝘳𝘴 𝘪𝘯 𝘎𝘳𝘢𝘱𝘩𝘪𝘤 𝘋𝘦𝘴𝘪𝘨𝘯
+## Hi there, I'm Apri Andri Frontend Developer based in Jakarta ,currently working in VCGamers. Outside of Programming, I am also a Freelance as a UI UX designer for several clients who want to request company needs 👑
 
 
 - 🌱 I’m currently working on IT & Design 👑
