@@ -49,16 +49,6 @@
 [<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/892ea137693157.5748bd39ecef6.png" width="150" />](https://www.artstation.com/apriandri)
 
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriandri&layout=compact)](https://github.com/apriandri/github-readme-stats)
-
-
-  <img align="left" alt="apriandri's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=apriandri&show_icons=true&hide_border=true" />
-
-</details>
-
 <!-- Copyright by apriandri -->
 
 [website]: https://www.apriandri.tech
