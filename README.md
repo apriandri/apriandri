@@ -2,11 +2,10 @@
 ## I'm From Computer Science Major. 👑
 
 
-## Hi there, I'm Apri Andri Frontend Developer based in Jakarta ,currently working in VCGamers. Outside of Programming, I am also a Freelance as a UI UX designer for several clients who want to request company needs 👑
+## Hi there, I'm Apri Andri Frontend Developer based in Jakarta. Outside of Programming, I am also a Freelance as a UI UX designer for several clients who want to request company needs 👑
 
 
 - 🌱 I’m currently working on IT & Design 👑
-- 👯 I’m looking to collaborate with other content creators
 - ⚡ Come On You Gunners⚽⚽⚽
 
 [![website](http://img.shields.io/website?label=APRIANDRI&style=for-the-badge&url=https://www.apriandri.tech)](https://www.apriandri.tech)
