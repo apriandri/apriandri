@@ -1,20 +1,3 @@
-### Hi there, I'm [Apri Andri][website] 🦇🦇
-## I'm From Computer Science Major. 👑
-
-
-## Hi there, I'm Apri Andri Frontend Developer based in Jakarta. Outside of Programming, I am also a Freelance as a UI UX designer for several clients who want to request company needs 👑
-
-
-- 🌱 I’m currently working on IT & Design 👑
-- ⚡ Come On You Gunners⚽⚽⚽
-
-[![website](http://img.shields.io/website?label=APRIANDRI&style=for-the-badge&url=https://www.apriandri.tech)](https://www.apriandri.tech)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/apriandri/)
-[![Paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](apriandri69@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apriandri)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apriandri/)
-
-
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-badge-python-flask.vercel.app/api/spotify-playing" alt="APRI ANDRI" width="350" />](https://open.spotify.com/playlist/42FW4P9QyfqL7OhwiN7lNG)
